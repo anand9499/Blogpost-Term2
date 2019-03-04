@@ -10,10 +10,13 @@ In this repository, I analysed the publicly available Airbnb data for Amsterdam.
 In general, I found that The majority of listings are less than $400 .The accomodate feature and availability_365 feature contribute most towards predicting prices of listings. The number of new listings saw a sharp increase between 2008 -2014 period.Therafter, there has been a declining trend in number of new listings 
 
 ### Libraries Used
-Pandas
-Matplotlib
-Sklearn
-Seaborn
+- Pandas
+- Matplotlib
+- Sklearn
+- Seaborn
+
+### Blogpost link
+Medium Post - https://medium.com/@anand9499/exploring-amsterdam-airbnb-data-d17794d17fd2
 
 ### Acknowledgements
 I got the data from http://insideairbnb.com/get-the-data.html
