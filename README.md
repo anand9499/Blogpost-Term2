@@ -15,6 +15,10 @@ In general, I found that The majority of listings are less than $400 .The accomo
 - Sklearn
 - Seaborn
 
+### Files in Repo
+- Airbnb Amsterdam Listing Analysis.ipynb
+- README.md
+
 ### Blogpost link
 Medium Post - https://medium.com/@anand9499/exploring-amsterdam-airbnb-data-d17794d17fd2
 
